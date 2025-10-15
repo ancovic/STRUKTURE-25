@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define MAX_BODOVI 50
 #define MAX_CHAR 20
-#define MAX_LINE 1024
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -49,7 +48,7 @@ int brojacStudenata() {
 
 	fp = fopen("STUDENTI.txt", "r");
 	if (fp == NULL) {
-		printf("ERROR: File cannot be opened.");
+		printf("ERROR: File se ne moze otvoriti.");
 		return -1;
 	}
 
@@ -91,6 +90,9 @@ int upisStud(int br) {
 		fscanf(fp, "%s %s %d", popis[i].ime, popis[i].prezime, &popis[i].bodovi);
 		printf("%s \t%s \t\t%d \t\t%f\n", popis[i].ime, popis[i].prezime, popis[i].bodovi, relBod(popis[i].bodovi));
 	}
+
+	fclose(fp);
+	free(popis);
 
 	return 0;
 }
