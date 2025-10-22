@@ -86,7 +86,7 @@ int upisStud(int br) {
 
 	printf("\nStudenti:\n\nIME: \tPREZIME: \tBODOVI: \tREL.BODOVI:\n\n");
 
-	for (int i = 0; i < 4; i++) {
+	for (int i = 0; i < br; i++) {
 		fscanf(fp, "%s %s %d", popis[i].ime, popis[i].prezime, &popis[i].bodovi);
 		printf("%s \t%s \t\t%d \t\t%f\n", popis[i].ime, popis[i].prezime, popis[i].bodovi, relBod(popis[i].bodovi));
 	}

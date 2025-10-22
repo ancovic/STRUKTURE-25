@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433A5CED-F366-44A2-AF6C-8A64D7637B40}|VJEZBA 2.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 2\\VJEZBA 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{433A5CED-F366-44A2-AF6C-8A64D7637B40}|VJEZBA 2.vcxproj|solutionrelative:VJEZBA 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VJEZBA 2.c",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 2\\VJEZBA 2.c",
+              "RelativeDocumentMoniker": "VJEZBA 2.c",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 2\\VJEZBA 2.c",
+              "RelativeToolTip": "VJEZBA 2.c",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwGIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-20T13:37:07.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
