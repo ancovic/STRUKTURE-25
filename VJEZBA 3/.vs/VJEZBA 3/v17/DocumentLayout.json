@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E6118D-2053-4F93-AF73-E0A05BCB8569}|VJEZBA 3.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\VJEZBA 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E6118D-2053-4F93-AF73-E0A05BCB8569}|VJEZBA 3.vcxproj|solutionrelative:VJEZBA 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E6118D-2053-4F93-AF73-E0A05BCB8569}|VJEZBA 3.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\fileToList.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1E6118D-2053-4F93-AF73-E0A05BCB8569}|VJEZBA 3.vcxproj|solutionrelative:fileToList.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileToList.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\fileToList.txt",
+              "RelativeDocumentMoniker": "fileToList.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\fileToList.txt",
+              "RelativeToolTip": "fileToList.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-29T16:24:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VJEZBA 3.c",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\VJEZBA 3.c",
+              "RelativeDocumentMoniker": "VJEZBA 3.c",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 3\\VJEZBA 3.c",
+              "RelativeToolTip": "VJEZBA 3.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawDUBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-27T13:26:53.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
