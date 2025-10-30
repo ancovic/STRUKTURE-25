@@ -37,6 +37,8 @@ int addToBegining(position Head);
 int printList(position Head);
 int addToEnd(position Head);
 int findSurname(position Head);
+int deletePerson(position Head);
+int deleteList(position Head);
 int userInterface(position Head);
 
 //VJEZBA 3
@@ -53,6 +55,8 @@ int main() {
 	person Head = { {0}, {0}, 0, NULL };
 
 	userInterface(&Head);
+
+	deleteList(&Head);
 
 	return 0;
 }
@@ -195,6 +199,24 @@ int deletePerson(position Head) {				//pod pretpostavkom da vise osoba u listi n
 		printf("\nTrazena osoba ne postoji.\n");
 
 	return 0;
+}
+
+int deleteList(position Head) {
+
+	position temp = Head->next;
+	position current = NULL;
+
+	while (temp != NULL) {
+
+		current = temp;
+		temp = temp->next;
+		free(current);
+
+	}
+
+	Head->next = NULL;
+
+	return EXIT_SUCCESS;
 }
 
 int addAfter(position Head) {
