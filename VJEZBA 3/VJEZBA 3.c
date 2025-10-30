@@ -181,6 +181,7 @@ int deletePerson(position Head) {				//pod pretpostavkom da vise osoba u listi n
 	while (temp != NULL) {
 		if (strcmp(temp->name, nameBuffer) == 0 && strcmp(temp->surname, surnBuffer) == 0 && temp->birthyear == byBuffer) {
 			prev->next = temp->next;
+			temp->next = NULL;
 			free(temp);
 			found = 1;
 			return 0;
