@@ -1,0 +1,18 @@
+﻿  functions.c
+  productreceipt.c
+  utils.c
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\productreceipt.c(89,3): warning C4013: 'fillList' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(423,4): warning C4013: 'printWanted' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(427,4): warning C4013: 'printAll' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(431,4): warning C4013: 'findMostExpensiveReceipt' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(435,4): warning C4013: 'findLeastExpensiveReceipt' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(439,4): warning C4013: 'findMostExpensiveProduct' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(443,4): warning C4013: 'findLeastExpensiveProduct' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(447,4): warning C4013: 'insertCustomReceipt' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(451,4): warning C4013: 'deleteWantedReceipt' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(455,4): warning C4013: 'changeProdPrice' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(459,4): warning C4013: 'timespanTotal' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\utils.c(463,4): warning C4013: 'mostBoughtProduct' undefined; assuming extern returning int
+  VJEZBA 6.c
+  Generating Code...
+  VJEZBA 6.vcxproj -> C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 6\x64\Debug\VJEZBA 6.exe
