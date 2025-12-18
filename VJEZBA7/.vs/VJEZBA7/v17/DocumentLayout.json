@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD0A2E-1DCE-454E-942F-8E746608393A}|VJEZBA7.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA7\\VJEZBA7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35AD0A2E-1DCE-454E-942F-8E746608393A}|VJEZBA7.vcxproj|solutionrelative:VJEZBA7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VJEZBA7.c",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA7\\VJEZBA7.c",
+              "RelativeDocumentMoniker": "VJEZBA7.c",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA7\\VJEZBA7.c",
+              "RelativeToolTip": "VJEZBA7.c",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAswOgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-18T14:04:27.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

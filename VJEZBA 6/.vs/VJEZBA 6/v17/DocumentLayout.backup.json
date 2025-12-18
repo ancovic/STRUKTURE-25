@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\VJEZBA 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:VJEZBA 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:productreceipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:productreceipt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:productreceipt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:productreceipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\VJEZBA 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3412FF-4B4A-4691-8DBC-A0C317D585BD}|VJEZBA 6.vcxproj|solutionrelative:VJEZBA 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "functions.c",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.c",
               "RelativeDocumentMoniker": "functions.c",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.c",
               "RelativeToolTip": "functions.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsBAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIsBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-04T10:55:27.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "functions.h",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.h",
               "RelativeDocumentMoniker": "functions.h",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\functions.h",
               "RelativeToolTip": "functions.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-04T10:54:56.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "utils.c",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\utils.c",
               "RelativeDocumentMoniker": "utils.c",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "productreceipt.c",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.c",
               "RelativeDocumentMoniker": "productreceipt.c",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "productreceipt.h",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\productreceipt.h",
               "RelativeDocumentMoniker": "productreceipt.h",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "VJEZBA 6.c",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\SP - 2025 26\\VJEZBA 6\\VJEZBA 6.c",
               "RelativeDocumentMoniker": "VJEZBA 6.c",
