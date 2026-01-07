@@ -1,0 +1,5 @@
+﻿  VJEZBA 9.c
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 9\VJEZBA 9.c(65,8): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'time_t (__cdecl *)(time_t *const )'
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 9\VJEZBA 9.c(65,8): warning C4024: 'srand': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 9\VJEZBA 9.c(122,1): warning C4715: 'InOrder': not all control paths return a value
+  VJEZBA 9.vcxproj -> C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 9\x64\Debug\VJEZBA 9.exe

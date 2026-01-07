@@ -1,0 +1,4 @@
+﻿  VJEZBA 8.c
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 8\VJEZBA 8.c(187,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'treePointer'
+C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 8\VJEZBA 8.c(187,12): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'treePointer'
+  VJEZBA 8.vcxproj -> C:\Users\Korisnik\Desktop\SP - 2025 26\VJEZBA 8\x64\Debug\VJEZBA 8.exe
