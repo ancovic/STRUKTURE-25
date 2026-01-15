@@ -1,0 +1,5 @@
+Copenhagen,1231822
+Aarhus,252213
+Odense,168798
+Aalborg,104885
+Esbjerg,71579
